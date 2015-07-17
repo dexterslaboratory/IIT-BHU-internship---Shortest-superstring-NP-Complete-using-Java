@@ -9,7 +9,7 @@ Sample Input/Output:<br>
       *********  D N A   SEQUENCING  *********  <br>
 __________________________________________________<br>
 Enter the number of threads: <br>
->> 10<br>
+ 10<br>
 -- Enter DNA threads -- <br>
 1. >> ACGTCT<br>
 2. >> ACGTAG<br>
